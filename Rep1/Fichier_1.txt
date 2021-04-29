@@ -1,0 +1,27 @@
+Plan de Formation
+Qu’est ce que l’Open source ? Comment y contribuer ?
+Qu'est-ce que la culture maker ?
+Comment partager mon code ?
+Définitions des termes.
+GIT
+Github
+Github desktop
+Repository (Dépot)
+Clone, Pull, Fork
+Branches
+Commit
+Push
+Merge
+Pull request
+Workflow
+Présentation d’un workflow
+Installation de GitHub Desktop + Atom.
+Copier un projet GitHub en local.
+Attribution des droits sur les branches.
+Modifier le projet pour y contribuer.
+Création de branches
+Modifications d’un fichier, création d’un répertoire et d’un nouveau fichier.
+Commits
+Push
+Contribuer au projet sur Github.
+Pull request
