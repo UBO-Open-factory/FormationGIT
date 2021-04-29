@@ -1,2 +1,2 @@
 # FormationGIT
-Repository pour faire des testes lors de formation GIT
+Repository pour faire des testes lors de formation GIT.
